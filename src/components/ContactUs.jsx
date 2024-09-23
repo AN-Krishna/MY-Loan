@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import contactus from "../assets/contactus1.jpg"
+import contactus from "../assets/contactUs1.jpg"
 
 const ContactUs = () => {
   const [formData, setFormData] = useState({
