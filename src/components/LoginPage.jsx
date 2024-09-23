@@ -1,7 +1,5 @@
 import React from 'react';
-import LoanAppbg3 from "../assets/LoanAppbg3.jpg";
 import image from "../assets/image.png";
-import loginBg from "../assets/Loginbg.jpg";
 import Loginpage from "../assets/Loginpage.png";
 import { Link } from 'react-router-dom';
 import Navbar from './Navbar';
