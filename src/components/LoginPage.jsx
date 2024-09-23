@@ -1,6 +1,6 @@
 import React from 'react';
 import image from "../assets/image.png";
-import Loginpage from "../assets/Loginpage.png";
+import Loginpage from "../assets/LoginPage.png";
 import { Link } from 'react-router-dom';
 import Navbar from './Navbar';
 import Footer from './Footer';
